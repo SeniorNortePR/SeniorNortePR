@@ -95,4 +95,3 @@ Toda evolução, melhoria ou atualização deverá ser documentada e compartilha
 Mais do que desenvolver software, construímos confiança.
 
 **Tecnologia com propósito. Entrega com responsabilidade. Crescimento com parceria.**
-```
